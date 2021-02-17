@@ -37,3 +37,6 @@ How to update Firmware:
     Burn the Firmware to programmer device. (e.g. EZP-2019).
     Clear CMOS.
     Configure settings & enjoy.
+
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99-E-cpuid.png" alt="Broadwell-EP CPUID ASUS X99-E Motherboard BIOS 2101" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99-E-cachemem.png" alt="Broadwell-EP CACHEMEM ASUS X99-E Motherboard BIOS 2101" />
