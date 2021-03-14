@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
 </a>
 
-### A3602 BIOS for ASUS X99-E Motherboard (07/17/2019 2101) 02/17/2021
+### A3602 BIOS for ASUS X99-E Motherboard (07/17/2019 2101) 03/14/2021
 
 * ##### Builder: iEngineer
 
